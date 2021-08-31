@@ -15,7 +15,7 @@ Hi! this is a simple **API** for showing, adding posts.
  ### Tasks:
  
 
- - [x] Fake 100 post using factories-seeders .  
+ - [x] Fake 100 post using factories-seeders (I tinker used instead!) .  
 - [x] pagination  
 - [x] show one post
 - [x] add new post
