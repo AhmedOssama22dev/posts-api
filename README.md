@@ -11,6 +11,9 @@ Hi! this is a simple **API** for showing, adding posts.
  **To GET a single post by id**: http://localhost:8000/api/posts/{id}
  <br>
  **To POST a new entery** : http://localhost:8000/api/posts **with required form data title, body**
+ 
+ _______________________________________
+ **I didn't git ignore the database.sqlite file in order to see the 100 generated posts **
   ________________________________
  ### Tasks:
  
