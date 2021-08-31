@@ -11,4 +11,13 @@ Hi! this is a simple **API** for showing, adding posts.
  **To GET a single post by id**: http://localhost:8000/api/posts/{id}
  <br>
  **To POST a new entery** : http://localhost:8000/api/posts **with required form data title, body**
+  ________________________________
+ ### Tasks:
+ 
+
+ - [x] Fake 100 post using factories-seeders .  
+- [x] pagination  
+- [x] show one post
+- [x] add new post
+- [x] using api resources
  
